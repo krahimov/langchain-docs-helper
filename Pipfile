@@ -18,9 +18,12 @@ uvicorn = "*"
 streamlit = "*"
 streamlit-chat = "*"
 tqdm = "*"
+langchain-community = "*"
+python-dotenv = "*"
+langchain-openai = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
-python_full_version = "3.11.0"
+python_version = "3.12"
+python_full_version = "3.12.1"
